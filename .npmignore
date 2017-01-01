@@ -7,7 +7,6 @@
 /.travis.yml
 
 /build
-/dist/cdn
 /speed
 /test
 /Gruntfile.js
